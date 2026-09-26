@@ -33,7 +33,7 @@ O patch recusará uma ISO de outra região, revisão ou com modificações anter
 ### Instalação
 
 1. Feche o jogo antes de continuar.
-2. Execute `Master-Collection/Instalar_Traducao_MG2_PTBR_v1.0.exe`.
+2. Execute `Master-Collection/Instalar_Traducao_MG2_PTBR_v1.0.1.exe`.
 3. Selecione a pasta raiz que contém `METAL GEAR.exe`.
 4. Pressione **Instalar**.
 5. Abra o jogo e configure o idioma como **Espanhol**.
